@@ -1,0 +1,3 @@
+hangman is the one
+hangman3 is a little older, with the state function returning into the io monad
+hangman2... not sure what I was try to do there
